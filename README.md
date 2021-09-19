@@ -7,7 +7,7 @@ amável com a família,,, com a família 🤣🤣🤣
 
 Gosto muito da área de qualidade de sistemas, sou um apaixonado por conhecimento e aqui irei postar projetos voltados para automatizações de teste (e outras coisas mais rsrsrs). 
 
-🧑‍💻🐛📄Tenho interesse pelas áreas de: 
+### 🧑‍💻🐛📄Tenho interesse pelas áreas de: 
 - Qualidade de sistemas
 - Requisitos
 - Testes manuais
