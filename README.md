@@ -36,6 +36,7 @@ Gosto muito da área de qualidade de sistemas, sou um apaixonado por conheciment
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-008000?style=for-the-badge&logo=cucumber&logoColor=white)
 
 **Frameworks de agilidade** 
 
@@ -43,7 +44,6 @@ Gosto muito da área de qualidade de sistemas, sou um apaixonado por conheciment
 ![Kanban](https://img.shields.io/badge/Kanban-FDFD96?style=for-the-badge&logoColor=white)
 ### 🤓🤯🧑‍🎓 Atualmente estou estudando: 
 
-![Cucumber](https://img.shields.io/badge/Cucumber-008000?style=for-the-badge&logo=cucumber&logoColor=white)
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ### 📈📊💹 Minhas estatisticas aqui no GitHub
