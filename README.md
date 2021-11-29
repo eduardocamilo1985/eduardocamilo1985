@@ -45,6 +45,10 @@ Gosto muito da área de qualidade de sistemas, sou um apaixonado por conheciment
 ### 🤓🤯🧑‍🎓 Atualmente estou estudando: 
 
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CTAL-TM](https://img.shields.io/badge/CTAL--TM-Preparat%C3%B3rio%20certifica%C3%A7%C3%A3o-yellowgreen)
+
 
 ### 📈📊💹 Minhas estatisticas aqui no GitHub
 
