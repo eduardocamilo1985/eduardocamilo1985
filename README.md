@@ -37,6 +37,8 @@ Gosto muito da área de qualidade de sistemas, sou um apaixonado por conheciment
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-008000?style=for-the-badge&logo=cucumber&logoColor=white)
+![ExtentReports](https://img.shields.io/badge/Report-ExtentReports-blue)
+
 
 **Frameworks de agilidade** 
 
