@@ -38,6 +38,8 @@ Gosto muito da área de qualidade de sistemas, sou um apaixonado por conheciment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-008000?style=for-the-badge&logo=cucumber&logoColor=white)
 ![ExtentReports](https://img.shields.io/badge/Report-ExtentReports-blue)
+![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 **Frameworks de agilidade** 
@@ -46,8 +48,6 @@ Gosto muito da área de qualidade de sistemas, sou um apaixonado por conheciment
 ![Kanban](https://img.shields.io/badge/Kanban-FDFD96?style=for-the-badge&logoColor=white)
 ### 🤓🤯🧑‍🎓 Atualmente estou estudando: 
 
-![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CTAL-TM](https://img.shields.io/badge/CTAL--TM-Preparat%C3%B3rio%20certifica%C3%A7%C3%A3o-yellowgreen)
 
