@@ -1,7 +1,7 @@
 # Seja bem vindo 👋 
 
 Me chamo Eduardo, atualmente estou no cargo de Analista de sistemas na empresa DataInfo. 
-Sou casado 👩🏾‍❤️‍💋‍👨🏻, tenho dois filhos (uma de 9 anos 👩 e um bebezinho 👶) e um cachorro 🐕 (schnauzer) que é super 
+Sou casado 👩🏾‍❤️‍💋‍👨🏻, tenho dois filhos (uma de 10 anos 👩 e um bebezinho 👶) e um cachorro 🐕 (schnauzer) que é super 
 amável com a família,,, com a família 🤣🤣🤣
 
 
